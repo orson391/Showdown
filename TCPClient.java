@@ -5,7 +5,7 @@ import java.security.NoSuchAlgorithmException;
 
 public class TCPClient {
     private static final String SERVER_HOSTNAME = "0.tcp.in.ngrok.io";
-    private static final int SERVER_PORT = 15882;
+    private static final int SERVER_PORT = 16271;
     
     TCPClient() {
         
